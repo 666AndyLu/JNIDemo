@@ -7,3 +7,6 @@ java JNIDemo
 
 
 add by andy test
+
+add by andy test2
+123
