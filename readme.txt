@@ -6,3 +6,4 @@ export LD_LIBRARY_PATH=.
 java JNIDemo 
 
 
+add by andy test
